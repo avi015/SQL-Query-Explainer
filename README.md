@@ -1,3 +1,4 @@
+![SQL Query Explainer](SQL.png)
 # 🗄️ SQL Query Explainer
 
 > Translate complex SQL queries into plain-English summaries with step-by-step logic and actionable performance notes.
