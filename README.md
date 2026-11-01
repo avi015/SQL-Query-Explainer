@@ -1,7 +1,19 @@
-<img src="SQL.png" alt="SQL Query Explainer" width="50%">
-# 🗄️ SQL Query Explainer
+<div align="center">
+  <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="SQL.png" alt="SQL Query Explainer Logo" width="160">
+      </td>
+      <td width="70%" valign="middle" align="left">
+        <h1>🔮 SQL Query Explainer</h1>
+        <h3><i>Translate complex SQL queries into plain-English summaries with step-by-step logic and actionable performance insights.</i></h3>
+      </td>
+    </tr>
+  </table>
+</div>
 
-> Translate complex SQL queries into plain-English summaries with step-by-step logic and actionable performance notes.
+---
+
 
 ![Skill Format](https://img.shields.io/badge/format-SKILL.md-blue)
 ![Role](https://img.shields.io/badge/role-DBA%20%26%20SQL%20Architect-green)
