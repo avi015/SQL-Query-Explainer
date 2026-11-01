@@ -1,4 +1,4 @@
-![SQL Query Explainer](SQL.png)
+<img src="SQL.png" alt="SQL Query Explainer" width="50%">
 # 🗄️ SQL Query Explainer
 
 > Translate complex SQL queries into plain-English summaries with step-by-step logic and actionable performance notes.
